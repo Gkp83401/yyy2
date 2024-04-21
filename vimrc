@@ -1,3 +1,3 @@
 syntax on
-set tabstop=3
+set tabstop=4
 set nu
