@@ -4,4 +4,6 @@ set nu
 
 
 
+
 set et
+set sts=8
