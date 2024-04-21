@@ -7,3 +7,4 @@ set nu
 
 set et
 set sts=8
+set sw=4
